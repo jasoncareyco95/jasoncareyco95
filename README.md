@@ -14,61 +14,61 @@ Hi! My name is Jason and I am a graduate student pursuing a PhD in Statistics. I
 
 The concepts/topics I'm studying to continually develop my R skills are (in order of priority):
 
-	- R Programming
-		[Advanced R](https://adv-r.hadley.nz/index.html)
-		[Efficient R Programming](https://csgillespie.github.io/efficientR/)
-		[Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
-		[R Packages](https://r-pkgs.org/index.html)
-	- Modeling and Machine Learning
-		[Tidymodels](https://www.tidymodels.org/)
-		[Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
-	- Database connections
-		[SQL Server](https://www.w3schools.com/sql/sql_intro.asp)
-		[ODBC/DBI Packages](https://db.rstudio.com/odbc/)
-	- Shiny Applications
-		[Mastering Shiny](https://mastering-shiny.org/)
-		[Golem](https://engineering-shiny.org/)
-	- R Markdown
-		[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
-		[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
-	- Data Visualization
-		[R Graphics Cookbook](https://r-graphics.org/)
-	- Other Items
-		[Bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
-		[Blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
-		[Geocomputation with R](https://geocompr.robinlovelace.net/)
-		[Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
+- R Programming
+	- [Advanced R](https://adv-r.hadley.nz/index.html)
+	- [Efficient R Programming](https://csgillespie.github.io/efficientR/)
+	- [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+	- [R Packages](https://r-pkgs.org/index.html)
+- Modeling and Machine Learning
+	- [Tidymodels](https://www.tidymodels.org/)
+	- [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- Database connections
+	- [SQL Server](https://www.w3schools.com/sql/sql_intro.asp)
+	- [ODBC/DBI Packages](https://db.rstudio.com/odbc/)
+- Shiny Applications
+	- [Mastering Shiny](https://mastering-shiny.org/)
+	- [Golem](https://engineering-shiny.org/)
+- R Markdown
+	- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+	- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- Data Visualization
+	- [R Graphics Cookbook](https://r-graphics.org/)
+- Other Items
+	- [Bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+	- [Blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+	- [Geocomputation with R](https://geocompr.robinlovelace.net/)
+	- [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
 
 ## Projects
 
 In addition to the areas I'm studying, I'm applying what I learn in the following projects:
 
-	- Package Development/Advanced R
-		S3, S4, R6 Methods
-		OOP
-		Environments
-	- TidyModels
-		Statistical analysis using the `Tidymodels` family of packages
-	- Database Interaction (`SQL`)
-		Connections
-		Abstraction
-		Data Wrangling
-	- Shiny App Development
-		Application development using `Shiny`
-		Packaged using the `Golem` framework
-		Application deployment onto [shinyapps.io](https://www.shinyapps.io/)
-	- Programming Shortcuts (QOL Improvements)
-		RStudio Add-ins
-		RMarkdown Report Templates
-		R Package Utility Functions and Function Families (think `usethis::use_pipe()`)
-		RStudio Jobs (see `rstudioapi` package)
-	- R Markdown
-		Formatting, shortcuts, syntax, links, mathematics formulas, etc.
-	- API Interaction
-		Authentication
-		Abstraction
-		RESTful Interactions (`GET`, `PUT`, `POST`, `PATCH`, `DELETE`)
-		
+- Package Development/Advanced R
+	- S3, S4, R6 Methods
+	- OOP
+	- Environments
+- TidyModels
+	- Statistical analysis using the `Tidymodels` family of packages
+- Database Interaction (`SQL`)
+	- Connections
+	- Abstraction
+	- Data Wrangling
+- Shiny App Development
+	- Application development using `Shiny`
+	- Packaged using the `Golem` framework
+	- Application deployment onto [shinyapps.io](https://www.shinyapps.io/)
+- Programming Shortcuts (QOL Improvements)
+	- RStudio Add-ins
+	- RMarkdown Report Templates
+	- R Package Utility Functions and Function Families (think `usethis::use_pipe()`)
+	- RStudio Jobs (see `rstudioapi` package)
+- R Markdown
+	- Formatting, shortcuts, syntax, links, mathematics formulas, etc.
+- API Interaction
+	- Authentication
+	- Abstraction
+	- RESTful Interactions (`GET`, `PUT`, `POST`, `PATCH`, `DELETE`)
+	
 ## Contact Me
 
 Connect with me through email [here]((mailto:jasoncareyco95@outlook.com?subject=[Github]%20Lets%20Connect%20)
