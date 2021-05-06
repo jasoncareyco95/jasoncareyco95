@@ -71,5 +71,4 @@ In addition to the areas I'm studying, I'm applying what I learn in the followin
 	
 ## Contact Me
 
-Connect with me through email [here]((mailto:jasoncareyco95@outlook.com?subject=[Github]%20Lets%20Connect%20)
-)!
+Connect with me through email [here!](mailto:jasoncareyco95@outlook.com?subject=[Github]%20Lets%20Connect%20)
