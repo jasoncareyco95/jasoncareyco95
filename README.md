@@ -63,7 +63,7 @@ In addition to the areas I'm studying, I'm applying what I learn in the followin
 	- R Package Utility Functions and Function Families (think `usethis::use_pipe()`)
 	- RStudio Jobs (see `rstudioapi` package)
 - R Markdown
-	- Formatting, shortcuts, syntax, links, mathematics formulas, etc.
+	- Formatting, shortcuts, syntax, links, [mathematics formulas](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html), etc.
 - API Interaction
 	- Authentication
 	- Abstraction
