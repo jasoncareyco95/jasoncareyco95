@@ -5,12 +5,11 @@
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
-
 <!-- badges: end -->
 
 ## About Me
 
-Hi! My name is Jason and I am a graduate student pursuing a PhD in Statistics. I'm currently attending [MSU Denver](https://www.msudenver.edu) while I complete the pre-requisites for the PhD Statistics program at [Colorado State University](https://statistics.colostate.edu/). I've also worked as an associate data scientist using `R` to create automated workflows, custom visualizations, reports, dashboards, and packages that explore data and various programming concepts.
+Hi! My name is Jason and I am a graduate student pursuing a PhD in Statistics. I'm currently attending [MSU Denver](https://www.msudenver.edu) while I complete the pre-requisites for the PhD Statistics program at [Colorado State University](https://statistics.colostate.edu/). I also work as an associate data scientist using `R` and `Python` to create automated workflows, custom visualizations, reports, dashboards, and packages that explore data and various programming concepts.
 
 ## Areas of Study
 
