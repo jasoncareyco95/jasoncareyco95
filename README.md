@@ -2,7 +2,9 @@
 # Jason's Github
 
 <!-- badges: start -->
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
 
 <!-- badges: end -->
 
@@ -22,6 +24,9 @@ The concepts/topics I'm studying to continually develop my R skills are (in orde
 - Modeling and Machine Learning
 	- [Tidymodels](https://www.tidymodels.org/)
 	- [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- Python
+	- [Data Analytics in Python](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf)
+	- [Data Science in Python](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - Database connections
 	- [SQL Server](https://www.w3schools.com/sql/sql_intro.asp)
 	- [ODBC/DBI Packages](https://db.rstudio.com/odbc/)
@@ -47,6 +52,9 @@ In addition to the areas I'm studying, I'm applying what I learn in the followin
 	- S3, S4, R6 Methods
 	- OOP
 	- Environments
+- Data Science with Python
+	- Pandas, Numpy, and more
+	- Translations between Python and R
 - TidyModels
 	- Statistical analysis using the `Tidymodels` family of packages
 - Database Interaction (`SQL`)
