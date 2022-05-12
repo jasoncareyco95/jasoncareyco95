@@ -9,11 +9,11 @@
 
 ## About Me
 
-Hi! My name is Jason and I am a graduate student pursuing a PhD in Statistics. I'm currently attending [MSU Denver](https://www.msudenver.edu) while I complete the pre-requisites required for multiple applied statistics graduate programs I anticipate applying to during the end of 2022. I also work as an associate data scientist using `R` and `Python` to create automated workflows, custom visualizations, reports, dashboards, and packages that explore data and various programming concepts.
+Hi! My name is Jason and I am an undergraduate student pursuing a PhD in Statistics. I'm currently attending [MSU Denver](https://www.msudenver.edu) while I complete the pre-requisites required for multiple applied statistics graduate programs I anticipate applying to during the beginning of 2024. I also work as an associate data scientist using `R` and `Python` to create automated workflows, machine learning models, custom visualizations, reports, dashboards, and packages that explore data and various programming concepts.
 
 ## Areas of Study
 
-The concepts/topics I'm studying to continually develop my R skills are (in order of priority):
+The concepts/topics I'm studying to continually develop my R and Python skills are (in order of priority):
 
 - R Programming
 	- [Advanced R](https://adv-r.hadley.nz/index.html)
@@ -45,7 +45,7 @@ The concepts/topics I'm studying to continually develop my R skills are (in orde
 
 ## Projects
 
-In addition to the areas I'm studying, I'm applying what I learn in the following projects:
+In addition to the areas I'm studying, I'm applying what I learn by developing projects that involve:
 
 - Package Development/Advanced R
 	- S3, S4, R6 Methods
