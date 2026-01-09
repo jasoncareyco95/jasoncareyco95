@@ -32,7 +32,7 @@ Topics that I actively study or implement in my workflows (assuming there is a b
 
 Interdisciplinary projects that I've had the opportunity to work on are:
 
-- Electric Vehicle Charging Station Optimization
+- [Electric Vehicle Charging Station Optimization](https://github.com/jasoncareyco95/EV_Chargers_Presentation)
 
 ## Acknowledgements
 
