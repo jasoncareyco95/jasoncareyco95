@@ -47,4 +47,4 @@ Metropolitan State University of Denver
 	
 ## Contact Me
 
-Connect with me through email [here!](mailto:jasoncareyco95@outlook.com?subject=Let's%20Connect!)
+Connect with me through email [here!](mailto:jason.carey95@gmail.com?subject=Let's%20Connect!)
