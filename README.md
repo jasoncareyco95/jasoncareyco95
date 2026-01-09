@@ -2,17 +2,19 @@
 
 ## About Me
 
-Hi! My name is Jason and I am a student pursuing a PhD in Computer Science concentrating in Artificial Intelligence research with application in interdisciplinary fields. In my professional career, I serve as a data scientist for [CliftonLarsonAllen](https://www.claconnect.com/en) (CLA) using R, Python, and SQL to create automated machine learning pipelines and custom reports and dashboards reporting KPIs to key stakeholders, maintain large database schemas, and develop proprietery packages/libraries that analyze internal and external data.
+Hi! My name is Jason and I am a Senior Data Scientist employed by [CliftonLarsonAllen](https://www.claconnect.com/en) (CLA). In my day-to-day operations I use R, Python, and SQL to create automated machine learning and generative AI pipelines that solve firmwide problems or introduce impactful solutions for our clients. I have a background in Accounting & Finance as well as Applied Mathematics with a specialization in quantitative computing. I've also contributed to research within the renewable energy technology field of study through interdisiplinary collaboration. I'm passionate about renewable energy technologies and how they will shape our future and our world. My goal is to apply my knowledge and my skills in applied mathematics and computer science to solve some of the biggest problems our generations face due to climate change. 
 
 ## Education
 
 **Metropolitan State University of Denver** - 2018
-- Bachelor of Science in Accounting and Finance
+- Bachelor of Science in Accounting & Finance
 
-**Metropolitan State University of Denver** - 2023
+**Metropolitan State University of Denver** - 2018
 - Bachelor of Science in Mathematics
 
 ## Research Interests
+
+Topics that I actively study or implement in my workflows (assuming there is a business case!) are as follows:
 
 - Artificial Intelligence:
     - Reinforcement Learning & Deep Q-Learning
@@ -21,13 +23,15 @@ Hi! My name is Jason and I am a student pursuing a PhD in Computer Science conce
     - Computer Vision
     - Generative Adversarial Networks
 - Machine Learning:
-    - Supervised and Unsupervised Methods (Broadly) 
+    - Supervised and Unsupervised Methods
+- Applied Mathematics:
+  	- Linear Programming (Constraint Optimization)
 
 ## Projects
 
 Interdisciplinary projects that I've had the opportunity to work on are:
 
-- Electric Vehicle Charging Station Optimization (To be published soon!)
+- Electric Vehicle Charging Station Optimization
 
 ## Acknowledgements
 
