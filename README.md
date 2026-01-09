@@ -17,6 +17,7 @@ Hi! My name is Jason and I am a Senior Data Scientist employed by [CliftonLarson
 Topics that I actively study or implement in my workflows (assuming there is a business case!) are as follows:
 
 - Artificial Intelligence:
+  	- Generative AI (Agentic AI, LLMs)
     - Reinforcement Learning & Deep Q-Learning
     - Natural Language Processing
     - Neural Networks
